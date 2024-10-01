@@ -1,0 +1,44 @@
+{
+	"PlayerData": [
+		{
+			"ID": 1,
+			"Forename": "Rifat",
+			"Surname": "Rhythm",
+			"ImageURL": "https://postimg.cc/NKPgqCXR"
+		},
+		{
+			"ID": 2,
+			"Forename": "Nafid",
+			"Surname": "Hasan",
+			"ImageURL": "https://imgur.com/a/jYWqrY0"
+		}
+	],
+	"ClubData": [
+		{
+			"ID": 1,
+			"Name": "Basundhara Kings",
+			"ShortName": "BK",
+			"ImageURL": "https://images.app.goo.gl/S8jTUvqhKPhnwsSA8"
+		}
+	],
+	"LeagueData": [
+		{
+			"ID": 28,
+			"Name": "Bangladesh Premiere League",
+			"ImageURL": "https://images.app.goo.gl/yKwipB8BBGJYNZHG7"
+		}
+	],
+	"CupData": [
+		{
+			"ID": 2,
+			"Name": "Bangladesh Premiere League",
+			"ImageURL": "https://images.app.goo.gl/SjmBentcKyqmYjuf9"
+		}
+	],
+	"StadiumData": [
+		{
+			"ID": 1,
+			"Name": "Bangladesh International Stadium"
+		}
+	]
+}
